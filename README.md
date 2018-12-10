@@ -1,2 +1,2 @@
-# Stepik-Back-end
-Stepic_Course
+# stepikBackEnd
+StepicCourse
